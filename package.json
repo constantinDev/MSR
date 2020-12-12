@@ -1,0 +1,11 @@
+{
+  "name": "metasploitstagereveal",
+  "version": "1.0.0",
+  "description": "Reveals the target address for a metasploit stage apk",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constantin",
+  "license": "ISC"
+}
